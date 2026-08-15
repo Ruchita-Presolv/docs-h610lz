@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-n1ojnl.epagosaportes.com/sitemap.xml
